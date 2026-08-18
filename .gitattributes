@@ -1,0 +1,12 @@
+# 저장소 안에서는 줄바꿈을 LF 로 통일합니다.
+# GitHub Pages 가 리눅스에서 서빙하므로 CRLF 로 섞이면 diff 가 지저분해집니다.
+* text=auto eol=lf
+
+# 이진 파일은 손대지 않습니다.
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.ico  binary
+*.woff binary
+*.woff2 binary
+*.pdf  binary

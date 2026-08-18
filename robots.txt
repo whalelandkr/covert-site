@@ -1,0 +1,9 @@
+# C.O.V.E.R.T — Whale Land
+# 전 페이지 크롤링을 허용합니다.
+# /terms/ 와 /privacy/ 는 각 HTML 안에서 noindex 로 지정되어 있습니다.
+
+User-agent: *
+Allow: /
+
+# 도메인 확정 후 아래 한 줄의 https://covert.example 를 확정 도메인으로 교체하세요.
+Sitemap: https://covert.example/sitemap.xml

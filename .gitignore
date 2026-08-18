@@ -1,0 +1,19 @@
+# 운영체제가 만드는 파일
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# 에디터
+.vscode/
+.idea/
+*.swp
+*~
+
+# Claude Code 로컬 설정
+# 기기별 권한 설정이라 공유하지 않습니다. .claude/ 폴더 자체는 추적합니다.
+.claude/settings.local.json
+
+# 로컬 서버 부산물
+node_modules/
+.npm/
