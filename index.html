@@ -22,10 +22,10 @@
 <meta property="og:locale" content="en_US" />
 <meta name="twitter:card" content="summary_large_image" />
 
-<!-- 언어 폴더 깊이와 무관하게 동작하도록 절대경로로 겁니다 -->
-<link rel="icon" href="/favicon.ico" sizes="any" />
-<link rel="icon" type="image/svg+xml" href="/assets/favicon.svg" />
-<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" />
+<!-- 상대경로. 도메인 루트에서도, GitHub Pages 하위 경로에서도 동작합니다. -->
+<link rel="icon" href="favicon.ico" sizes="any" />
+<link rel="icon" type="image/svg+xml" href="assets/favicon.svg" />
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png" />
 
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -158,10 +158,10 @@
     <div class="langsel">
       <label class="sr" for="lang">Language</label>
       <select id="lang">
-        <option value="/" selected>EN — English</option>
-        <option value="/kr/">KR — 한국어</option>
-        <option value="/jp/">JP — 日本語</option>
-        <option value="/cn/">CN — 简体中文</option>
+        <option value="./" selected>EN — English</option>
+        <option value="kr/">KR — 한국어</option>
+        <option value="jp/">JP — 日本語</option>
+        <option value="cn/">CN — 简体中文</option>
       </select>
     </div>
   </div>
@@ -221,7 +221,7 @@
   <div class="wrap">
     <div class="agent-in rv" data-par="0.03">
       <div class="agent-fig">
-        <img src="/assets/bummy-black-suit.png" alt="Bummy, fellow agent" width="340" height="421" loading="lazy" decoding="async" />
+        <img src="assets/bummy-black-suit.png" alt="Bummy, fellow agent" width="340" height="421" loading="lazy" decoding="async" />
       </div>
       <div class="agent-say">
         <p>Open the envelope and clear them one at a time. We're going together.</p>

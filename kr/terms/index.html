@@ -15,10 +15,10 @@
 <link rel="alternate" hreflang="zh-Hans" href="https://covert.example/cn/terms/" />
 <link rel="alternate" hreflang="x-default" href="https://covert.example/terms/" />
 
-<!-- 언어 폴더 깊이와 무관하게 동작하도록 절대경로로 겁니다 -->
-<link rel="icon" href="/favicon.ico" sizes="any" />
-<link rel="icon" type="image/svg+xml" href="/assets/favicon.svg" />
-<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" />
+<!-- 상대경로. 도메인 루트에서도, GitHub Pages 하위 경로에서도 동작합니다. -->
+<link rel="icon" href="../../favicon.ico" sizes="any" />
+<link rel="icon" type="image/svg+xml" href="../../assets/favicon.svg" />
+<link rel="apple-touch-icon" href="../../assets/apple-touch-icon.png" />
 
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -86,10 +86,10 @@
     <div class="langsel">
       <label class="sr" for="lang">언어</label>
       <select id="lang">
-        <option value="/terms/">EN — English</option>
-        <option value="/kr/terms/" selected>KR — 한국어</option>
-        <option value="/jp/terms/">JP — 日本語</option>
-        <option value="/cn/terms/">CN — 简体中文</option>
+        <option value="../../terms/">EN — English</option>
+        <option value="../../kr/terms/" selected>KR — 한국어</option>
+        <option value="../../jp/terms/">JP — 日本語</option>
+        <option value="../../cn/terms/">CN — 简体中文</option>
       </select>
     </div>
   </div>
