@@ -69,6 +69,11 @@
 .buy{display:flex;align-items:flex-end;justify-content:space-between;gap:26px;flex-wrap:wrap}
 .buy-fig{font-family:var(--body);font-weight:800;font-size:clamp(34px,5vw,48px);letter-spacing:-.03em;line-height:1;margin:0}
 .buy-note{font-size:13px;color:var(--ink-faint);margin:9px 0 0}
+/* 카페24 상품 URL 이 아직 없어 구매 버튼을 비활성 상태로 둡니다.
+   URL 이 정해지면 아래 .buy-soon 마크업과 이 규칙을 함께 지웁니다.
+   .cta-off 는 푸터에서도 쓰므로 site.css 에 있습니다. */
+.buy-soon{display:flex;flex-direction:column;align-items:flex-start}
+.buy-soon-note{font-family:var(--body);font-size:11.5px;color:var(--red);margin:9px 0 0}
 .fine{font-size:13px;line-height:1.8;color:var(--ink-faint);margin:24px 0 0;padding-top:18px;border-top:1px solid var(--paper-lo)}
 .fine b{color:var(--red);font-weight:400;font-family:var(--mono);font-size:11px;letter-spacing:.16em;display:block;margin:0 0 6px}
 
@@ -181,7 +186,12 @@
           <p class="buy-fig">₩30,000</p>
           <p class="buy-note">부가세 포함 · 배송비 별도</p>
         </div>
-        <a class="cta" href="CHANGE_ME" target="_blank" rel="noopener">키트 구매하기</a>
+        <!-- 카페24 상품 URL 이 정해지면 아래 <div class="buy-soon"> 블록 전체를 이 한 줄로 되돌립니다.
+             <a class="cta" href="상품URL" target="_blank" rel="noopener">키트 구매하기</a> -->
+        <div class="buy-soon">
+          <span class="cta cta-off">키트 구매하기</span>
+          <p class="buy-soon-note">판매처 링크는 곧 연결됩니다.</p>
+        </div>
       </div>
 
       <p class="fine">
@@ -204,10 +214,10 @@
         <p class="foot-mark">C.O.V.E.R.T<i style="font-style:normal;color:var(--red)">.</i></p>
         <p class="foot-tag">평범한 여행을 특별한 임무로.</p>
         <div class="sns">
-          <a href="#" rel="me">INSTAGRAM</a>
-          <a href="#" rel="me">FACEBOOK</a>
-          <a href="#" rel="me">YOUTUBE</a>
-          <a href="#" rel="me">TIKTOK</a>
+          <span>INSTAGRAM</span>
+          <span>FACEBOOK</span>
+          <span>YOUTUBE</span>
+          <span>TIKTOK</span>
           <a href="https://tumblbug.com/covertkr" target="_blank" rel="me noopener">TUMBLBUG</a>
         </div>
       </div>
@@ -226,14 +236,17 @@
         <ul class="foot-list">
           <li><a href="../support/">배송 &middot; 환불</a></li>
           <li><a href="../support/#faq">자주 묻는 질문</a></li>
-          <li><a href="https://forms.gle/CHANGE_ME" target="_blank" rel="noopener">문의하기</a></li>
+          <li><a href="mailto:contact@whalelandkr.com">문의하기</a></li>
         </ul>
       </nav>
 
       <div class="news">
         <p class="foot-h">Dispatches</p>
         <p>새로운 작전과 재입고 소식만 전합니다. 1년에 네 번 정도 보냅니다.</p>
-        <a class="cta cta-2" href="https://forms.gle/CHANGE_ME" target="_blank" rel="noopener">명단에 등록</a>
+        <!-- 구글폼 주소가 정해지면 아래 두 줄을 이 한 줄로 되돌립니다.
+             <a class="cta cta-2" href="폼주소" target="_blank" rel="noopener">명단에 등록</a> -->
+        <span class="cta cta-2 cta-off">명단에 등록</span>
+        <p class="news-soon">등록은 곧 열립니다.</p>
       </div>
     </div>
 
