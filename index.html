@@ -6,19 +6,19 @@
 <title>C.O.V.E.R.T — Arrive a tourist. Leave an agent.</title>
 <meta name="description" content="A sealed envelope, a paper passport, forty-five instructions. Operation 01 is Seoul. No app, no tour guide — just you and a city that doesn't know you're coming." />
 
-<!-- 정식 도메인. 바꿀 일이 생기면 이 파일들의 https://covert.whalelandkr.com 을 일괄 치환하면 됩니다. -->
-<link rel="canonical" href="https://covert.whalelandkr.com/" />
-<link rel="alternate" hreflang="en" href="https://covert.whalelandkr.com/" />
-<link rel="alternate" hreflang="ko" href="https://covert.whalelandkr.com/kr/" />
-<link rel="alternate" hreflang="ja" href="https://covert.whalelandkr.com/jp/" />
-<link rel="alternate" hreflang="zh-Hans" href="https://covert.whalelandkr.com/cn/" />
-<link rel="alternate" hreflang="x-default" href="https://covert.whalelandkr.com/" />
+<!-- 정식 도메인. 바꿀 일이 생기면 이 파일들의 https://whalelandkr.com/covert/site 을 일괄 치환하면 됩니다. -->
+<link rel="canonical" href="https://whalelandkr.com/covert/site/" />
+<link rel="alternate" hreflang="en" href="https://whalelandkr.com/covert/site/" />
+<link rel="alternate" hreflang="ko" href="https://whalelandkr.com/covert/site/kr/" />
+<link rel="alternate" hreflang="ja" href="https://whalelandkr.com/covert/site/jp/" />
+<link rel="alternate" hreflang="zh-Hans" href="https://whalelandkr.com/covert/site/cn/" />
+<link rel="alternate" hreflang="x-default" href="https://whalelandkr.com/covert/site/" />
 
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="C.O.V.E.R.T" />
 <meta property="og:title" content="C.O.V.E.R.T — Arrive a tourist. Leave an agent." />
 <meta property="og:description" content="A sealed envelope, a paper passport, forty-five instructions. Operation 01 is Seoul." />
-<meta property="og:image" content="https://covert.whalelandkr.com/assets/og.png" />
+<meta property="og:image" content="https://whalelandkr.com/covert/site/assets/og.png" />
 <meta property="og:locale" content="en_US" />
 <meta name="twitter:card" content="summary_large_image" />
 
@@ -296,17 +296,20 @@
 (function(){
   var reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
-  /* ---- 브라우저 언어 자동 전환 (최초 1회, 루트에서만) ----
+  /* ---- 브라우저 언어 자동 전환 (최초 1회, 영문 홈에서만) ----
+     이 블록은 영문 홈에만 둡니다. 다른 언어판 홈에 넣으면 서로 튕겨냅니다.
+     경로를 상대경로로 적어 도메인 루트든 /covert/site/ 같은 하위 경로든
+     그대로 동작합니다. 예전에는 pathname 이 '/' 인지 검사해서
+     하위 경로에 올리면 아예 작동하지 않았습니다.
      LANGS 에는 "실제로 만들어진" 언어 폴더만 넣습니다.
      없는 폴더를 넣으면 해당 언어 방문자가 404 에 갇힙니다. */
   var LANGS = {
-    ko: '/kr/',
-    ja: '/jp/',
-    zh: '/cn/'
+    ko: 'kr/',
+    ja: 'jp/',
+    zh: 'cn/'
   };
   try{
-    var p = location.pathname.replace(/index\.html$/,'');
-    if((p === '/' || p === '') && !localStorage.getItem('cov_lang')){
+    if(!localStorage.getItem('cov_lang')){
       var l = (navigator.language || 'en').toLowerCase().slice(0,2);
       var to = LANGS[l] || null;
       /* 플래그는 실제로 이동할 때만 남긴다.

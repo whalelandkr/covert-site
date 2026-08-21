@@ -5,4 +5,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://covert.whalelandkr.com/sitemap.xml
+Sitemap: https://whalelandkr.com/covert/site/sitemap.xml
