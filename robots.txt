@@ -5,5 +5,4 @@
 User-agent: *
 Allow: /
 
-# 도메인 확정 후 아래 한 줄의 https://covert.example 를 확정 도메인으로 교체하세요.
-Sitemap: https://covert.example/sitemap.xml
+Sitemap: https://covert.whalelandkr.com/sitemap.xml

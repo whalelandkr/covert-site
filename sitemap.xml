@@ -1,186 +1,185 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 도메인 확정 후 이 파일의 https://covert.example 를 일괄 교체하세요. -->
 <!-- /terms/ 와 /privacy/ 는 noindex 라 의도적으로 제외했습니다. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://covert.example/</loc>
-    <lastmod>2026-08-18</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://covert.example/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://covert.example/kr/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://covert.example/jp/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://covert.example/cn/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://covert.example/"/>
+    <loc>https://covert.whalelandkr.com/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://covert.whalelandkr.com/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://covert.whalelandkr.com/kr/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://covert.whalelandkr.com/jp/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://covert.whalelandkr.com/cn/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://covert.whalelandkr.com/"/>
   </url>
   <url>
-    <loc>https://covert.example/kr/</loc>
-    <lastmod>2026-08-18</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://covert.example/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://covert.example/kr/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://covert.example/jp/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://covert.example/cn/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://covert.example/"/>
+    <loc>https://covert.whalelandkr.com/kr/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://covert.whalelandkr.com/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://covert.whalelandkr.com/kr/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://covert.whalelandkr.com/jp/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://covert.whalelandkr.com/cn/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://covert.whalelandkr.com/"/>
   </url>
   <url>
-    <loc>https://covert.example/jp/</loc>
-    <lastmod>2026-08-18</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://covert.example/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://covert.example/kr/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://covert.example/jp/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://covert.example/cn/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://covert.example/"/>
+    <loc>https://covert.whalelandkr.com/jp/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://covert.whalelandkr.com/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://covert.whalelandkr.com/kr/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://covert.whalelandkr.com/jp/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://covert.whalelandkr.com/cn/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://covert.whalelandkr.com/"/>
   </url>
   <url>
-    <loc>https://covert.example/cn/</loc>
-    <lastmod>2026-08-18</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://covert.example/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://covert.example/kr/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://covert.example/jp/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://covert.example/cn/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://covert.example/"/>
+    <loc>https://covert.whalelandkr.com/cn/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://covert.whalelandkr.com/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://covert.whalelandkr.com/kr/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://covert.whalelandkr.com/jp/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://covert.whalelandkr.com/cn/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://covert.whalelandkr.com/"/>
   </url>
   <url>
-    <loc>https://covert.example/mission/</loc>
-    <lastmod>2026-08-18</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://covert.example/mission/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://covert.example/kr/mission/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://covert.example/jp/mission/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://covert.example/cn/mission/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://covert.example/mission/"/>
+    <loc>https://covert.whalelandkr.com/mission/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://covert.whalelandkr.com/mission/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://covert.whalelandkr.com/kr/mission/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://covert.whalelandkr.com/jp/mission/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://covert.whalelandkr.com/cn/mission/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://covert.whalelandkr.com/mission/"/>
   </url>
   <url>
-    <loc>https://covert.example/kr/mission/</loc>
-    <lastmod>2026-08-18</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://covert.example/mission/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://covert.example/kr/mission/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://covert.example/jp/mission/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://covert.example/cn/mission/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://covert.example/mission/"/>
+    <loc>https://covert.whalelandkr.com/kr/mission/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://covert.whalelandkr.com/mission/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://covert.whalelandkr.com/kr/mission/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://covert.whalelandkr.com/jp/mission/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://covert.whalelandkr.com/cn/mission/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://covert.whalelandkr.com/mission/"/>
   </url>
   <url>
-    <loc>https://covert.example/jp/mission/</loc>
-    <lastmod>2026-08-18</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://covert.example/mission/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://covert.example/kr/mission/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://covert.example/jp/mission/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://covert.example/cn/mission/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://covert.example/mission/"/>
+    <loc>https://covert.whalelandkr.com/jp/mission/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://covert.whalelandkr.com/mission/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://covert.whalelandkr.com/kr/mission/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://covert.whalelandkr.com/jp/mission/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://covert.whalelandkr.com/cn/mission/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://covert.whalelandkr.com/mission/"/>
   </url>
   <url>
-    <loc>https://covert.example/cn/mission/</loc>
-    <lastmod>2026-08-18</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://covert.example/mission/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://covert.example/kr/mission/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://covert.example/jp/mission/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://covert.example/cn/mission/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://covert.example/mission/"/>
+    <loc>https://covert.whalelandkr.com/cn/mission/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://covert.whalelandkr.com/mission/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://covert.whalelandkr.com/kr/mission/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://covert.whalelandkr.com/jp/mission/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://covert.whalelandkr.com/cn/mission/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://covert.whalelandkr.com/mission/"/>
   </url>
   <url>
-    <loc>https://covert.example/kit/</loc>
-    <lastmod>2026-08-18</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://covert.example/kit/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://covert.example/kr/kit/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://covert.example/jp/kit/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://covert.example/cn/kit/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://covert.example/kit/"/>
+    <loc>https://covert.whalelandkr.com/kit/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://covert.whalelandkr.com/kit/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://covert.whalelandkr.com/kr/kit/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://covert.whalelandkr.com/jp/kit/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://covert.whalelandkr.com/cn/kit/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://covert.whalelandkr.com/kit/"/>
   </url>
   <url>
-    <loc>https://covert.example/kr/kit/</loc>
-    <lastmod>2026-08-18</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://covert.example/kit/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://covert.example/kr/kit/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://covert.example/jp/kit/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://covert.example/cn/kit/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://covert.example/kit/"/>
+    <loc>https://covert.whalelandkr.com/kr/kit/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://covert.whalelandkr.com/kit/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://covert.whalelandkr.com/kr/kit/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://covert.whalelandkr.com/jp/kit/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://covert.whalelandkr.com/cn/kit/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://covert.whalelandkr.com/kit/"/>
   </url>
   <url>
-    <loc>https://covert.example/jp/kit/</loc>
-    <lastmod>2026-08-18</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://covert.example/kit/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://covert.example/kr/kit/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://covert.example/jp/kit/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://covert.example/cn/kit/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://covert.example/kit/"/>
+    <loc>https://covert.whalelandkr.com/jp/kit/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://covert.whalelandkr.com/kit/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://covert.whalelandkr.com/kr/kit/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://covert.whalelandkr.com/jp/kit/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://covert.whalelandkr.com/cn/kit/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://covert.whalelandkr.com/kit/"/>
   </url>
   <url>
-    <loc>https://covert.example/cn/kit/</loc>
-    <lastmod>2026-08-18</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://covert.example/kit/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://covert.example/kr/kit/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://covert.example/jp/kit/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://covert.example/cn/kit/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://covert.example/kit/"/>
+    <loc>https://covert.whalelandkr.com/cn/kit/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://covert.whalelandkr.com/kit/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://covert.whalelandkr.com/kr/kit/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://covert.whalelandkr.com/jp/kit/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://covert.whalelandkr.com/cn/kit/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://covert.whalelandkr.com/kit/"/>
   </url>
   <url>
-    <loc>https://covert.example/report/</loc>
-    <lastmod>2026-08-18</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://covert.example/report/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://covert.example/kr/report/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://covert.example/jp/report/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://covert.example/cn/report/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://covert.example/report/"/>
+    <loc>https://covert.whalelandkr.com/report/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://covert.whalelandkr.com/report/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://covert.whalelandkr.com/kr/report/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://covert.whalelandkr.com/jp/report/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://covert.whalelandkr.com/cn/report/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://covert.whalelandkr.com/report/"/>
   </url>
   <url>
-    <loc>https://covert.example/kr/report/</loc>
-    <lastmod>2026-08-18</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://covert.example/report/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://covert.example/kr/report/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://covert.example/jp/report/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://covert.example/cn/report/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://covert.example/report/"/>
+    <loc>https://covert.whalelandkr.com/kr/report/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://covert.whalelandkr.com/report/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://covert.whalelandkr.com/kr/report/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://covert.whalelandkr.com/jp/report/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://covert.whalelandkr.com/cn/report/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://covert.whalelandkr.com/report/"/>
   </url>
   <url>
-    <loc>https://covert.example/jp/report/</loc>
-    <lastmod>2026-08-18</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://covert.example/report/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://covert.example/kr/report/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://covert.example/jp/report/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://covert.example/cn/report/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://covert.example/report/"/>
+    <loc>https://covert.whalelandkr.com/jp/report/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://covert.whalelandkr.com/report/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://covert.whalelandkr.com/kr/report/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://covert.whalelandkr.com/jp/report/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://covert.whalelandkr.com/cn/report/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://covert.whalelandkr.com/report/"/>
   </url>
   <url>
-    <loc>https://covert.example/cn/report/</loc>
-    <lastmod>2026-08-18</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://covert.example/report/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://covert.example/kr/report/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://covert.example/jp/report/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://covert.example/cn/report/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://covert.example/report/"/>
+    <loc>https://covert.whalelandkr.com/cn/report/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://covert.whalelandkr.com/report/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://covert.whalelandkr.com/kr/report/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://covert.whalelandkr.com/jp/report/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://covert.whalelandkr.com/cn/report/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://covert.whalelandkr.com/report/"/>
   </url>
   <url>
-    <loc>https://covert.example/support/</loc>
-    <lastmod>2026-08-18</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://covert.example/support/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://covert.example/kr/support/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://covert.example/jp/support/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://covert.example/cn/support/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://covert.example/support/"/>
+    <loc>https://covert.whalelandkr.com/support/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://covert.whalelandkr.com/support/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://covert.whalelandkr.com/kr/support/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://covert.whalelandkr.com/jp/support/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://covert.whalelandkr.com/cn/support/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://covert.whalelandkr.com/support/"/>
   </url>
   <url>
-    <loc>https://covert.example/kr/support/</loc>
-    <lastmod>2026-08-18</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://covert.example/support/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://covert.example/kr/support/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://covert.example/jp/support/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://covert.example/cn/support/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://covert.example/support/"/>
+    <loc>https://covert.whalelandkr.com/kr/support/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://covert.whalelandkr.com/support/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://covert.whalelandkr.com/kr/support/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://covert.whalelandkr.com/jp/support/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://covert.whalelandkr.com/cn/support/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://covert.whalelandkr.com/support/"/>
   </url>
   <url>
-    <loc>https://covert.example/jp/support/</loc>
-    <lastmod>2026-08-18</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://covert.example/support/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://covert.example/kr/support/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://covert.example/jp/support/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://covert.example/cn/support/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://covert.example/support/"/>
+    <loc>https://covert.whalelandkr.com/jp/support/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://covert.whalelandkr.com/support/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://covert.whalelandkr.com/kr/support/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://covert.whalelandkr.com/jp/support/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://covert.whalelandkr.com/cn/support/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://covert.whalelandkr.com/support/"/>
   </url>
   <url>
-    <loc>https://covert.example/cn/support/</loc>
-    <lastmod>2026-08-18</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://covert.example/support/"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://covert.example/kr/support/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://covert.example/jp/support/"/>
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://covert.example/cn/support/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://covert.example/support/"/>
+    <loc>https://covert.whalelandkr.com/cn/support/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://covert.whalelandkr.com/support/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://covert.whalelandkr.com/kr/support/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://covert.whalelandkr.com/jp/support/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://covert.whalelandkr.com/cn/support/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://covert.whalelandkr.com/support/"/>
   </url>
 </urlset>
